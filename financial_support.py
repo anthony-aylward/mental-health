@@ -55,10 +55,9 @@ def main():
             '{:1.1f}%'.format(height),
             ha='center',
             color='w'
-        ) 
+        )
     fig = ax.get_figure()
     fig.savefig(args.file, format=args.file.split('.')[1])
-
 
 
 
