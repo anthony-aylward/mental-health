@@ -6,13 +6,10 @@ empirical data that point to a crisis of mental health problems among graduate
 students. Here is an illustrative (but not exhaustive) selection of news &
 opinion articles to this effect:
 
-- [Feeling overwhelmed by academia? You are not alone]
-(https://www.nature.com/articles/d41586-018-04998-1)
-- [Mental health in academia is too often a forgotten footnote. That needs to change]
-(https://www.sciencemag.org/careers/2018/04/mental-health-academia-too-often-forgotten-footnote-needs-change)
+- [Feeling overwhelmed by academia? You are not alone](https://www.nature.com/articles/d41586-018-04998-1)
+- [Mental health in academia is too often a forgotten footnote. That needs to change](https://www.sciencemag.org/careers/2018/04/mental-health-academia-too-often-forgotten-footnote-needs-change)
 - [Academia is built on exploitation. We must break this vicious circle](https://www.theguardian.com/higher-education-network/2018/may/18/academia-exploitation-university-mental-health-professors-plagiarism)
-- [More academics and students have mental health problems than ever before]
-(http://theconversation.com/more-academics-and-students-have-mental-health-problems-than-ever-before-90339)
+- [More academics and students have mental health problems than ever before](http://theconversation.com/more-academics-and-students-have-mental-health-problems-than-ever-before-90339)
 - [The Emotional Toll of Graduate School](https://blogs.scientificamerican.com/observations/the-emotional-toll-of-graduate-school/)
 - [Graduate School Can Have Terrible Effects on People’s Mental Health](https://www.theatlantic.com/education/archive/2018/11/anxiety-depression-mental-health-graduate-school/576769/)
 - [Graduate school should be challenging, not traumatic](https://chroniclevitae.com/news/2130-graduate-school-should-be-challenging-not-traumatic) (2018)
