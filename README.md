@@ -1,6 +1,6 @@
 # Graduate School and Mental Health
 
-There is an growing discussion of mental health in the academic community.
+There is a growing discussion of mental health in the academic community.
 Of particular concern is the mounting quantity of anectodal reports and
 empirical data that point to a crisis of mental health problems among graduate
 students. Here is an illustrative (but not exhaustive) selection of news &
@@ -23,10 +23,15 @@ Several of the above articles reference published academic studies of mental
 health among graduate students that have been carried out over the past few
 years. They include:
 
-- [U.C. Berkeley Graduate Student Happiness & Well-Being Report | 2014](http://ga.berkeley.edu/wp-content/uploads/2015/04/wellbeingreport_2014.pdf)
+- [Graduate Student Happiness & Well-Being Report | 2014](http://ga.berkeley.edu/wp-content/uploads/2015/04/wellbeingreport_2014.pdf)
+    * > About 47% of PhD. students reach the thershold considered depressed, a
+    10 out of 30 on the depression scale. U.C. Berkeley, 2014.
 - [Work organization and mental health problems in PhD students](https://www.sciencedirect.com/science/article/abs/pii/S0048733317300422)
+    * > ... in terms of mental health problems, PhD students were consistently more affected (as indicated by the higher number of symptoms) than the highly educated general population, highly educated employees, and higher education students. _Research Policy_, 2017.
 - [Evidence for a mental health crisis in graduate education](https://www.nature.com/articles/nbt.4089)
+   * > Our results show that graduate students are more than six times as likely to experience depression and anxiety as compared to the general population. _Nature Biotechnology_, 2018.
 - [Graduate Student Mental Health: Lessons from American Economics Departments](https://scholar.harvard.edu/bolotnyy/publications/graduate-student-mental-health-lessons-american-economics-departments)
+    * > The prevalence of depression and anxiety symptoms among Economics PhD students is comparable to the prevalence found in incarcerated populations. Harvard University, 2018.
 
 All of these studies reach the same conclusion: Graduate students suffer from
 disproportionately high rates of mental illness, this problem is a severe
@@ -57,8 +62,13 @@ This section examines selected statistics from the 2016 survey which concern
 the Biological Sciences division and Jacobs School of Engineering, and thus
 are relevant to BISB students. It does not summarize the entire report.
 
-![life satisfaction](figure/life-satisfaction.svg)
-![depressive symptoms](figure/depressive-symptoms.svg)
+> ![life satisfaction](figure/life-satisfaction.svg)
+>
+> 30% of graduate students in BS and 24% in JSOE report low life satisfaction.
+
+> ![depressive symptoms](figure/depressive-symptoms.svg)
+>
+> 36% of graduate students in BS and 30% in JSOE report mild to severe depressive symptoms
 ![](figure/depressive-symptoms.svg)
 
 ## Conclusions & recommendations
