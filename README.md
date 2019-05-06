@@ -41,6 +41,7 @@ experiences among different universities, departments, and programs. It is
 important that we also consider statistics collected from UCSD that are
 relevant to the BISB program as much as possible.
 
-<img src="figure/life-satisfaction.svg" width=300px/><img src="figure/depressive-symptoms.svg" width=300px/>
+![life satisfaction](figure/life-satisfaction.svg)
+![depressive symptoms](figure/depressive-symptoms.svg)
 
 ## Conclusions & recommendations
