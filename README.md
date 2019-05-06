@@ -37,8 +37,10 @@ intervention.
 
 While anecdotal and imperical evidence do indicate severe mental health problems
 among graduate students as a whole, there is high variability in student
-experiences among different universities, departments, and programs.  
+experiences among different universities, departments, and programs. It is
+important that we also consider statistics collected from UCSD that are
+relevant to the BISB program as much as possible.
 
-![life satisfaction](figure/life-satisfaction.svg)![depressive symptoms](figure/depressive-symptoms.svg)
+<img src="figure/life-satisfaction.svg" width=300px/><img src="figure/depressive-symptoms.svg" width=300px/>
 
 ## Conclusions & recommendations
