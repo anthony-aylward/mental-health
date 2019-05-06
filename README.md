@@ -58,17 +58,51 @@ information:
 
 ### 2016 Graduate Student Well-Being Survey
 
-This section examines selected statistics from the 2016 survey which concern
+This section highlights selected statistics from the 2016 survey which concern
 the Biological Sciences division and Jacobs School of Engineering, and thus
 are relevant to BISB students. It does not summarize the entire report.
 
+While students in BS and JSOE may fare slightly better than the general graduate
+student population, they still suffer high rates of
+depressive symptoms, and a large fraction report poor life satisfaction and/or
+poor financial confidence.
+
 > ![life satisfaction](figure/life-satisfaction.svg)
 >
-> 30% of graduate students in BS and 24% in JSOE report low life satisfaction.
+> 30% of graduate students in BS and 24% in JSOE reported low life satisfaction.
 
 > ![depressive symptoms](figure/depressive-symptoms.svg)
 >
-> 36% of graduate students in BS and 30% in JSOE report mild to severe depressive symptoms
-![](figure/depressive-symptoms.svg)
+> 36% of graduate students in BS and 30% in JSOE reported mild to severe depressive symptoms.
+
+> ![mentorship satisfaction](figure/mentorship-satisfaction.svg)
+>
+> 43% of graduate students in BS and 26% in JSOE were not satisfied with the mentorship they recieved.
+
+> ![financial confidence](figure/financial-confidence.svg)
+>
+> 25% of graduate students in BS and 34% in JSOE were not confident about their financial situation.
+
+> ![food security](figure/food-security.svg)
+>
+> 24% of graduate students in BS and 27% in JSOE experienced concerns about and/or instances of having insufficient food in the most recent year.
+
+### 2017 Graduate and Professional Student Experience and Satisfaction (GPSES) Survey
+
+This section highlights selected statistics from the 2017 survey which indicate the most significant challenges to academic progress. It does not summarize the entire report.
+
+The most common academic challenge to students' degree progress was program structure/requirements. The most common personal challenge was cost of living, and many students were dissatisfied with the financial support they recieved. 
+
+> ![academic challenges](figure/academic-challenges.png)
+>
+> Program structure or requirements was the most common academic challenege impacting academic progress.
+
+> ![personal challenges](figure/personal-challenges.png)
+>
+> Cost of living was the most common personal challenge impacting academic progress.
+
+> ![financual support](figure/financial-support.svg)
+>
+> In BS, 21.8% of graduate students were dissatisfied with their level of financial support, while 63.2% were satisfied. In JSOE, 25.1% were dissatisfied while 51.6% were satisfied.
 
 ## Conclusions & recommendations
