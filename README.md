@@ -39,4 +39,6 @@ While anecdotal and imperical evidence do indicate severe mental health problems
 among graduate students as a whole, there is high variability in student
 experiences among different universities, departments, and programs.  
 
+![life satisfaction](figure/life-satisfaction.svg)![depressive symptoms](figure/depressive-symptoms.svg)
+
 ## Conclusions & recommendations
