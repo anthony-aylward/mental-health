@@ -37,11 +37,28 @@ intervention.
 
 While anecdotal and imperical evidence do indicate severe mental health problems
 among graduate students as a whole, there is high variability in student
-experiences among different universities, departments, and programs. It is
-important that we also consider statistics collected from UCSD that are
-relevant to the BISB program as much as possible.
+experiences among different universities, departments, and programs. Having
+said that, mental health is a critical issue for students at UCSD and is already
+becoming a topic of discussion among students and faculty in biological science,
+bioengineering and bioinformatics. See [slides from a talk by Prof. Rob Knight](
+bioengineering_faculty_spotlight_jan_29.pdf).
+
+It is important that we consider statistics collected from UCSD that are
+relevant to the BISB program as much as possible. Two recent [UCSD Institutional
+Research](https://ir.ucsd.edu/grad/index.html) surveys provide useful
+information:
+
+- [2016 Graduate Student Well-Being Survey](https://ir.ucsd.edu/grad/surveys/GraduateWellBeing.html)
+- [2017 Graduate and Professional Student Experience and Satisfaction (GPSES) Survey](https://ir.ucsd.edu/grad/surveys/gpses.html)
+
+### 2016 Graduate Student Well-Being Survey
+
+This section examines selected statistics from the 2016 survey which concern
+the Biological Sciences division and Jacobs School of Engineering, and thus
+are relevant to BISB students. It does not summarize the entire report.
 
 ![life satisfaction](figure/life-satisfaction.svg)
 ![depressive symptoms](figure/depressive-symptoms.svg)
+![](figure/depressive-symptoms.svg)
 
 ## Conclusions & recommendations
