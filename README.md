@@ -17,9 +17,26 @@ opinion articles to this effect:
 - [Ph.D. students face significant mental health challenges](https://www.sciencemag.org/careers/2017/04/phd-students-face-significant-mental-health-challenges) (2017)
 - [Berkeley study finds high levels of depression among graduate students](https://www.insidehighered.com/news/2015/04/22/berkeley-study-finds-high-levels-depression-among-graduate-students) (2015)
 
-
 ## A mental health crisis in graduate education
+
+Several of the above articles reference published academic studies of mental
+health among graduate students that have been carried out over the past few
+years. They include:
+
+- [Graduate Student Happiness & Well-Being Report | 2014](http://ga.berkeley.edu/wp-content/uploads/2015/04/wellbeingreport_2014.pdf)(U.C. Berkeley)
+- [Work organization and mental health problems in PhD students](https://www.sciencedirect.com/science/article/abs/pii/S0048733317300422)
+- [Evidence for a mental health crisis in graduate education](https://www.nature.com/articles/nbt.4089)
+- [Graduate Student Mental Health: Lessons from American Economics Departments](https://scholar.harvard.edu/bolotnyy/publications/graduate-student-mental-health-lessons-american-economics-departments)
+
+All of these studies reach the same conclusion: Graduate students suffer from
+disproportionately high rates of mental illness, this problem is a severe
+drain on their productivity and well-being, and it demands immediate policy
+intervention.
 
 ## Mental health and grad exprience statistics at UCSD
 
-## Conclusions
+While anecdotal and imperical evidence do indicate severe mental health problems
+among graduate students as a whole, there is high variability in student
+experiences among different universities, departments, and programs.  
+
+## Conclusions & recommendations
