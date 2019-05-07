@@ -58,7 +58,7 @@ information:
 
 ### 2016 Graduate Student Well-Being Survey
 
-This section highlights selected statistics from the 2016 survey which concern
+This section highlights selected statistics from the [2016 survey](https://ir.ucsd.edu/grad/surveys/GraduateWellBeing.html) which concern
 the Biological Sciences division and Jacobs School of Engineering, and thus
 are relevant to BISB students. It does not summarize the entire report.
 
@@ -66,6 +66,9 @@ While students in BS and JSOE may fare slightly better than the general graduate
 student population, they still suffer high rates of
 depressive symptoms, and a large fraction report poor life satisfaction and/or
 poor financial confidence.
+
+A notable finding of the study was that many of the values shown here were
+correlated with students' rate of academic progress.
 
 > ![life satisfaction](figure/life-satisfaction.svg)
 >
@@ -89,7 +92,7 @@ poor financial confidence.
 
 ### 2017 Graduate and Professional Student Experience and Satisfaction (GPSES) Survey
 
-This section highlights selected statistics from the 2017 survey which indicate the most significant challenges to academic progress. It does not summarize the entire report.
+This section highlights selected statistics from the [2017 survey](https://ir.ucsd.edu/grad/surveys/gpses.html) which indicate the most significant challenges to academic progress. It does not summarize the entire report.
 
 The most common academic challenge to students' degree progress was program structure/requirements. The most common personal challenge was cost of living, and many students were dissatisfied with the financial support they recieved. 
 
@@ -106,3 +109,38 @@ The most common academic challenge to students' degree progress was program stru
 > In BS, 21.8% of graduate students were dissatisfied with their level of financial support, while 63.2% were satisfied. In JSOE, 25.1% were dissatisfied while 51.6% were satisfied.
 
 ## Conclusions & recommendations
+
+At a national & international scale, graduate students suffer mental illnesses
+at much higher rates than the general population. Data from the Biological
+Sciences division and Jacobs School of Engineering at UCSD suggest that
+BISB students are also at high risk of mental illness. Poor mental health
+among students may be causing a severe drain on their productivity and
+well-being. The program administration should immediately take measures to
+asses & support students' mental health in order to avoid the potentially high
+cost of inaction.
+
+Across UCSD, graduate student life satisfaction & incidence of depressive symptoms
+were correlated with timely academic progress. Students have reported 
+**cost of living** and **program structure or requirements** as frequent
+challenges to their academic progress, so these points are good targets for
+improvement.
+
+Recommendations to reduce and prevent the impact of mental illness on BISB
+students:
+
+- **Survey BISB students using a psychological instrument.** This will have the
+dual benefit of providing data on BISB students specifically and raising
+awareness of mental health issues among students.
+
+- **Raise the stipend.** UCSD Institutional Research surveys indicate that
+many BS and JSOE students are not confident in their financial situation,
+and students university-wide find cost of living to be a frequent challenge
+to their academic progress. Increasing the stipend will hasten students'
+academic progress and bolster their mental health.
+
+- **Standardize, clarify, and streamline BISB program structure and requirements**
+Spending time hunting down the details of program requirements or handling
+unexpected bureaucratic mishaps drain students' energy and their confidence in
+themselves and the BISB program. Keeping such factors to a minimum
+will relieve students of significant stressors and allow them to focus on their
+research.
