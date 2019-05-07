@@ -144,3 +144,8 @@ unexpected bureaucratic mishaps drain students' energy and their confidence in
 themselves and the BISB program. Keeping such factors to a minimum
 will relieve students of significant stressors and allow them to focus on their
 research.
+
+As a final thought, it bears mentionioning that BISB aims to be an exemplary,
+**world class** establishment of bioinformatics training. If we aim to maintain
+that assertion then prompt, effective action on these points is all the more
+necessary.
