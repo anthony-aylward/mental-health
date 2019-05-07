@@ -146,6 +146,6 @@ will relieve students of significant stressors and allow them to focus on their
 research.
 
 As a final thought, it bears mentionioning that BISB aims to be an exemplary,
-**world class** establishment of bioinformatics training. If we aim to maintain
-that assertion then prompt, effective action on these points is all the more
-necessary.
+**world class** establishment of bioinformatics training. If we plan to maintain
+that assertion then we need to be better than the average grad program at UCSD.
+Prompt, effective action on these points is all the more necessary.
