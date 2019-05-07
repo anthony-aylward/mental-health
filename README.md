@@ -40,7 +40,7 @@ intervention.
 
 ## Mental health and grad exprience statistics at UCSD
 
-While anecdotal and imperical evidence do indicate severe mental health problems
+While anecdotal and empirical evidence do indicate severe mental health problems
 among graduate students as a whole, there is high variability in student
 experiences among different universities, departments, and programs. Having
 said that, mental health is a critical issue for students at UCSD and is already
