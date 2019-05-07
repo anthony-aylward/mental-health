@@ -80,7 +80,7 @@ correlated with students' rate of academic progress.
 
 > ![mentorship satisfaction](figure/mentorship-satisfaction.svg)
 >
-> 43% of graduate students in BS and 26% in JSOE were not satisfied with the mentorship they recieved.
+> 26% of graduate students in BS and 15% in JSOE were not satisfied with the mentorship they recieved.
 
 > ![financial confidence](figure/financial-confidence.svg)
 >
