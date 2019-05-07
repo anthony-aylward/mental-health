@@ -138,7 +138,7 @@ and students university-wide find cost of living to be a frequent challenge
 to their academic progress. Increasing the stipend will hasten students'
 academic progress and bolster their mental health.
 
-- **Standardize, clarify, and streamline BISB program structure and requirements**
+- **Standardize, clarify, and streamline BISB program structure and requirements.**
 Spending time hunting down the details of program requirements or handling
 unexpected bureaucratic mishaps drain students' energy and their confidence in
 themselves and the BISB program. Keeping such factors to a minimum
