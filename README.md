@@ -80,7 +80,7 @@ correlated with students' rate of academic progress.
 
 > ![mentorship satisfaction](figure/mentorship-satisfaction.svg)
 >
-> 43% of graduate students in BS and 26% in JSOE were not satisfied with the mentorship they recieved.
+> 26% of graduate students in BS and 15% in JSOE were not satisfied with the mentorship they recieved.
 
 > ![financial confidence](figure/financial-confidence.svg)
 >
@@ -142,9 +142,14 @@ and students university-wide find cost of living to be a frequent challenge
 to their academic progress. Increasing the stipend will hasten students'
 academic progress and bolster their mental health.
 
-- **Standardize, clarify, and streamline BISB program structure and requirements**
+- **Standardize, clarify, and streamline BISB program structure and requirements.**
 Spending time hunting down the details of program requirements or handling
 unexpected bureaucratic mishaps drain students' energy and their confidence in
 themselves and the BISB program. Keeping such factors to a minimum
 will relieve students of significant stressors and allow them to focus on their
 research.
+
+As a final thought, it bears mentionioning that BISB aims to be an exemplary,
+**world class** establishment of bioinformatics training. If we plan to maintain
+that assertion then we need to be better than the average grad program at UCSD.
+Prompt, effective action on these points is all the more necessary.
