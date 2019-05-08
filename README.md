@@ -119,8 +119,8 @@ well-being. The program administration should immediately take measures to
 asses & support students' mental health in order to avoid the potentially high
 cost of inaction.
 
-Across UCSD, graduate student life satisfaction & incidence of depressive symptoms
-were correlated with timely academic progress. Students have reported 
+Across UCSD, graduate student life satisfaction & incidence of depressive
+symptoms were correlated with timely academic progress. Students have reported 
 **cost of living** and **program structure or requirements** as frequent
 challenges to their academic progress, so these points are good targets for
 improvement.
@@ -128,9 +128,13 @@ improvement.
 Recommendations to reduce and prevent the impact of mental illness on BISB
 students:
 
-- **Survey BISB students using a psychological instrument.** This will have the
-dual benefit of providing data on BISB students specifically and raising
-awareness of mental health issues among students.
+- **Promote awareness among faculty & students.** Greater awareness of mental
+health issues, their causes, and their consequences will benefit both faculty
+and students. For example, faculty who are attentive to their students'
+workloads and avoid overworking them will be rewarded with more productive and
+engaged students. Students who recognize the commonplace nature of
+mental health issues will be more likely to seek support or treatment for
+themselves and avoid the worst symptoms. 
 
 - **Raise the stipend.** UCSD Institutional Research surveys indicate that
 many BS and JSOE students are not confident in their financial situation,
