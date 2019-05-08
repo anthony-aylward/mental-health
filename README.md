@@ -1,6 +1,7 @@
 # Graduate School and Mental Health
 
 _Thanks to Owen Chapman and Michelle Ragsac for their input & suggestions._
+
 _This QR code links to the online version of this document._
 
 ![QR](figure/qrcode.png)
