@@ -1,5 +1,7 @@
 # Graduate School and Mental Health
 
+_Thanks to Owen Chapman and Michelle Ragsac for their input & suggestions._
+
 There is a growing discussion of mental health in the academic community.
 Of particular concern is the mounting quantity of anectodal reports and
 empirical data that point to a crisis of mental health problems among graduate
@@ -134,7 +136,12 @@ and students. For example, faculty who are attentive to their students'
 workloads and avoid overworking them will be rewarded with more productive and
 engaged students. Students who recognize the commonplace nature of
 mental health issues will be more likely to seek support or treatment for
-themselves and avoid the worst symptoms. 
+themselves and avoid the worst symptoms.
+
+- **Involve CAPS psychologists.** Organizing workshops with CAPS psychologists
+focused on graduate student wellness would provide direct support for
+the mental health of BISB students and reduce their susceptibility to future
+mental illness.
 
 - **Raise the stipend.** UCSD Institutional Research surveys indicate that
 many BS and JSOE students are not confident in their financial situation,
@@ -143,9 +150,11 @@ to their academic progress. Increasing the stipend will hasten students'
 academic progress and bolster their mental health.
 
 - **Standardize, clarify, and streamline BISB program structure and requirements.**
-Spending time hunting down the details of program requirements or handling
-unexpected bureaucratic mishaps drain students' energy and their confidence in
-themselves and the BISB program. Keeping such factors to a minimum
+Institutional Research surveys also indicate that program structure and
+requirements are major challenges to academic progress for grad students at
+UCSD. Spending time hunting down the details of program requirements or
+handling unexpected bureaucratic mishaps drain students' energy and their
+confidence in themselves and the BISB program. Keeping such factors to a minimum
 will relieve students of significant stressors and allow them to focus on their
 research.
 
@@ -153,3 +162,12 @@ As a final thought, it bears mentionioning that BISB aims to be an exemplary,
 **world class** establishment of bioinformatics training. If we plan to maintain
 that assertion then we need to be better than the average grad program at UCSD.
 Prompt, effective action on these points is all the more necessary.
+
+## Appendix: Relevant UCSD resources
+
+Some under-advertised UCSD resources that might be helpful to students
+struggling with mental health (or other) issues include:
+
+- [Triton Food Pantry](https://basicneeds.ucsd.edu/triton-food-pantry/index.html) (Discreet service to UCSD students in need of food)
+- [The Hub](https://basicneeds.ucsd.edu) (Basic Needs resources)
+- [The Zone](https://wellness.ucsd.edu/zone/Pages/default.aspx) (lounge for student health, well-being, and wellness programs)
