@@ -44,6 +44,10 @@ disproportionately high rates of mental illness, this problem is a severe
 drain on their productivity and well-being, and it demands immediate policy
 intervention.
 
+> ![Anxiety and depression](figure/anxiety-depression.svg)
+>
+> Prevalence of anxiety and depression as reported in _Nature Biotechnology_, 2018.
+
 ## Mental health and grad exprience statistics at UCSD
 
 While anecdotal and empirical evidence do indicate severe mental health problems
