@@ -66,6 +66,8 @@ information:
 - [2016 Graduate Student Well-Being Survey](https://ir.ucsd.edu/grad/surveys/GraduateWellBeing.html)
 - [2017 Graduate and Professional Student Experience and Satisfaction (GPSES) Survey](https://ir.ucsd.edu/grad/surveys/gpses.html)
 
+> Sidebar: The #HowAreYou campaign and CAPS
+
 ### 2016 Graduate Student Well-Being Survey
 
 This section highlights selected statistics from the [2016 survey](https://ir.ucsd.edu/grad/surveys/GraduateWellBeing.html) which concern
