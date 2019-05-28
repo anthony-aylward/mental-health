@@ -67,6 +67,20 @@ information:
 - [2017 Graduate and Professional Student Experience and Satisfaction (GPSES) Survey](https://ir.ucsd.edu/grad/surveys/gpses.html)
 
 > Sidebar: The #HowAreYou campaign and CAPS
+>
+> In 2016, the UC Student Association ran a campaign called
+> [#HowAreYou](https://ucsa.org/smh-rubric/), which collected feedback from UC
+> students about mental health resourcess across UC campuses. The campaign
+> evaluated each campus and graded them based on student
+> feedback. UCSD's CAPS [recieved a grade of C+](http://triton.news/2016/02/ucsd-receives-c-on-mental-health-evaluations/), which was slightly above the
+> average of C. This shows that, along with mental health services across
+> the UC system, CAPS struggles to meet the needs of all students who require
+> it. Consequently CAPS, while important, is on its own
+> unlikely to be sufficient support for students with mental health issues
+> in Biological Sciences, JSOE, BISB, etc. A truly effective solution will
+> require reforms to the structure and environment of the programs themselves.
+>
+> ![UCSD grade](figure/UCSD-HRU.png)
 
 ### 2016 Graduate Student Well-Being Survey
 
