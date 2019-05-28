@@ -68,10 +68,10 @@ information:
 
 > Sidebar: The #HowAreYou campaign and CAPS
 >
-> In 2016, the UC Student Association ran a campaign called
-> [#HowAreYou](https://ucsa.org/smh-rubric/), which collected feedback from UC
-> students about mental health resourcess across UC campuses. The campaign
-> evaluated each campus and graded them based on student
+> In 2016, the UC Student Association ran the
+> [#HowAreYou](https://ucsa.org/smh-rubric/) campaign, which collected feedback
+> from UC students about mental health resourcess across UC campuses. The
+> campaign evaluated each campus and graded them based on student
 > feedback. UCSD's CAPS [recieved a grade of C+](http://triton.news/2016/02/ucsd-receives-c-on-mental-health-evaluations/), which was slightly above the
 > average of C. This shows that, along with mental health services across
 > the UC system, CAPS struggles to meet the needs of all students who require
