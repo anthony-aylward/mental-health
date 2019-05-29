@@ -66,7 +66,7 @@ information:
 - [2016 Graduate Student Well-Being Survey](https://ir.ucsd.edu/grad/surveys/GraduateWellBeing.html)
 - [2017 Graduate and Professional Student Experience and Satisfaction (GPSES) Survey](https://ir.ucsd.edu/grad/surveys/gpses.html)
 
-> Sidebar: The #HowAreYou campaign and CAPS
+> ### Sidebar: The #HowAreYou campaign and CAPS
 >
 > In 2016, the UC Student Association ran the
 > [#HowAreYou](https://ucsa.org/smh-rubric/) campaign, which collected feedback
