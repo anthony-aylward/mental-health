@@ -189,6 +189,8 @@ As a final thought, it bears mentionioning that BISB aims to be an exemplary,
 that assertion then we need to be better than the average grad program at UCSD.
 Prompt, effective action on these points is all the more necessary.
 
+See also some more general recommendations here: [Mental Health in Academia: How Departments Can Support Faculty, Staff, and Students](https://ideasonfire.net/mental-health-in-academia/)
+
 ## Appendix: Relevant UCSD resources
 
 Some under-advertised UCSD resources that might be helpful to students
