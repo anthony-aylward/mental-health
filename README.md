@@ -12,7 +12,7 @@ empirical data that point to a crisis of mental health problems among graduate
 students. Here is an illustrative (but not exhaustive) selection of news &
 opinion articles to this effect:
 
--[Why We Need to Talk More About Mental Health in Graduate School](https://www.chronicle.com/article/Why-We-Need-to-Talk-More-About/247002) (2019)
+- [Why We Need to Talk More About Mental Health in Graduate School](https://www.chronicle.com/article/Why-We-Need-to-Talk-More-About/247002) (2019)
 - [Mental health in academia is topic of the week at a sold-out UK meeting](https://www.nature.com/articles/d41586-019-01468-0) (2019)
 - [The ivory tower of academia and how mental health is often neglected](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6511937/) (2019)
 - [STUDENT VOICE: Universities overlook graduate students’ mental health](https://hechingerreport.org/opinion-graduate-students-mental-health/) (2019)
