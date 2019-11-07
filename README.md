@@ -6,6 +6,8 @@ _This QR code links to the online version of this document._
 
 ![QR](figure/qrcode.png)
 
+### [World Mental Health Day (2019): facts, figures and the flaws of academia - read this!](https://www.neuro-central.com/2019/10/08/world-mental-health-day-facts-figures-flaws-academia/)
+
 There is a growing discussion of mental health in the academic community.
 Of particular concern is the mounting quantity of anectodal reports and
 empirical data that point to a crisis of mental health problems among graduate
