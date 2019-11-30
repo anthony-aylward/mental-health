@@ -6,12 +6,20 @@ _This QR code links to the online version of this document._
 
 ![QR](figure/qrcode.png)
 
+### [World Mental Health Day (2019): facts, figures and the flaws of academia - read this!](https://www.neuro-central.com/2019/10/08/world-mental-health-day-facts-figures-flaws-academia/)
+
 There is a growing discussion of mental health in the academic community.
 Of particular concern is the mounting quantity of anectodal reports and
 empirical data that point to a crisis of mental health problems among graduate
 students. Here is an illustrative (but not exhaustive) selection of news &
 opinion articles to this effect:
 
+- [A better future for graduate-student mental health](https://www.nature.com/articles/d41586-019-02584-7) (2019)
+- [Why We Need to Talk More About Mental Health in Graduate School](https://www.chronicle.com/article/Why-We-Need-to-Talk-More-About/247002) (2019)
+- [Being a PhD student shouldn’t be bad for your health](https://www.nature.com/articles/d41586-019-01492-0) (2019)
+- [Mental health in academia is topic of the week at a sold-out UK meeting](https://www.nature.com/articles/d41586-019-01468-0) (2019)
+- [The ivory tower of academia and how mental health is often neglected](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6511937/) (2019)
+- [STUDENT VOICE: Universities overlook graduate students’ mental health](https://hechingerreport.org/opinion-graduate-students-mental-health/) (2019)
 - [The Emotional Toll of Graduate School](https://blogs.scientificamerican.com/observations/the-emotional-toll-of-graduate-school/) (2019)
 - [Feeling overwhelmed by academia? You are not alone](https://www.nature.com/articles/d41586-018-04998-1) (2018)
 - [Mental health in academia is too often a forgotten footnote. That needs to change](https://www.sciencemag.org/careers/2018/04/mental-health-academia-too-often-forgotten-footnote-needs-change) (2018)
@@ -188,6 +196,8 @@ As a final thought, it bears mentionioning that BISB aims to be an exemplary,
 **world class** establishment of bioinformatics training. If we plan to maintain
 that assertion then we need to be better than the average grad program at UCSD.
 Prompt, effective action on these points is all the more necessary.
+
+See also some more general recommendations here: [Mental Health in Academia: How Departments Can Support Faculty, Staff, and Students](https://ideasonfire.net/mental-health-in-academia/) and here: [Graduate student mental health is in crisis](https://thetech.com/2019/10/10/graduate-student-mental-health)
 
 ## Appendix: Relevant UCSD resources
 
