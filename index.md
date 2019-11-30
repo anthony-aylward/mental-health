@@ -1,6 +1,4 @@
----
-title: Graduate School and Mental Health
----
+
 
 # Graduate School and Mental Health
 
