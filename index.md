@@ -45,7 +45,7 @@ years. They include:
 - [Graduate Student Mental Health: Lessons from American Economics Departments](https://scholar.harvard.edu/bolotnyy/publications/graduate-student-mental-health-lessons-american-economics-departments)
     * > The prevalence of depression and anxiety symptoms among Economics PhD students is comparable to the prevalence found in incarcerated populations. Harvard University, 2018.
 - [Burnout and Mental Health Problems in Biomedical Doctoral Students](https://www.lifescied.org/doi/10.1187/cbe.18-09-0198)
-    * > A concerning finding from our analyses is that a high proportion of biomedical doctoral students struggle with high rates of mental health problems. CBE—Life Sciences Education, 2019.
+    * > A concerning finding from our analyses is that a high proportion of biomedical doctoral students struggle with high rates of mental health problems. _CBE—Life Sciences Education_, 2019.
 
 All of these studies reach the same conclusion: Graduate students suffer from
 disproportionately high rates of mental illness, this problem is a severe
