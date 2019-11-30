@@ -41,7 +41,7 @@ Several of the above articles reference published academic studies of mental
 health among graduate students that have been carried out over the past few
 years. They include:
 
-- [Graduate Student Happiness & Well-Being Report | 2014](http://ga.berkeley.edu/wp-content/uploads/2015/04/wellbeingreport_2014.pdf)
+- [Graduate Student Happiness & Well-Being Report 2014](http://ga.berkeley.edu/wp-content/uploads/2015/04/wellbeingreport_2014.pdf)
     * > About 47% of PhD. students reach the thershold considered depressed, a
     10 out of 30 on the depression scale. U.C. Berkeley, 2014.
 - [Work organization and mental health problems in PhD students](https://www.sciencedirect.com/science/article/abs/pii/S0048733317300422)
