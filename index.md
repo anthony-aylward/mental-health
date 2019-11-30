@@ -1,3 +1,7 @@
+---
+title: Graduate School and Mental Health
+---
+
 # Graduate School and Mental Health
 
 _Thanks to Owen Chapman and Michelle Ragsac for their input & suggestions._
