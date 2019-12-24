@@ -12,7 +12,7 @@ empirical data that point to a crisis of mental health problems among graduate
 students. Here is an illustrative (but not exhaustive) selection of news &
 opinion articles to this effect:
 
-- [Op-ed: UC should offer more resources to support graduate students’ mental health](https://dailybruin.com/2019/09/26/op-ed-uc-should-offer-more-resources-to-support-graduate-students-mental-health/)
+- [Op-ed: UC should offer more resources to support graduate students’ mental health](https://dailybruin.com/2019/09/26/op-ed-uc-should-offer-more-resources-to-support-graduate-students-mental-health/) (2019)
 - [A better future for graduate-student mental health](https://www.nature.com/articles/d41586-019-02584-7) (2019)
 - [Why We Need to Talk More About Mental Health in Graduate School](https://www.chronicle.com/article/Why-We-Need-to-Talk-More-About/247002) (2019)
 - [Being a PhD student shouldn’t be bad for your health](https://www.nature.com/articles/d41586-019-01492-0) (2019)
@@ -42,7 +42,7 @@ years. They include:
 - [Work organization and mental health problems in PhD students](https://www.sciencedirect.com/science/article/abs/pii/S0048733317300422)
     * > ... in terms of mental health problems, PhD students were consistently more affected (as indicated by the higher number of symptoms) than the highly educated general population, highly educated employees, and higher education students. _Research Policy_, 2017.
 - [University of California Graduate Student Well-Being Survey Report](https://www.ucop.edu/institutional-research-academic-planning/_files/survey-documents-graduate/graduate_well_being_survey_report.pdf)
-    * > Over one-third (35%, n=1,782) of respondents reported symptoms indicative of clinical depression, representing about 16,000 graduate students total.
+    * > Over one-third (35%, n=1,782) of respondents reported symptoms indicative of clinical depression, representing about 16,000 graduate students total. University of California, 2017.
 - [Evidence for a mental health crisis in graduate education](https://www.nature.com/articles/nbt.4089)
    * > Our results show that graduate students are more than six times as likely to experience depression and anxiety as compared to the general population. _Nature Biotechnology_, 2018.
 - [Graduate Student Mental Health: Lessons from American Economics Departments](https://scholar.harvard.edu/bolotnyy/publications/graduate-student-mental-health-lessons-american-economics-departments)
