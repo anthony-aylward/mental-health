@@ -49,6 +49,8 @@ years. They include:
     * > The prevalence of depression and anxiety symptoms among Economics PhD students is comparable to the prevalence found in incarcerated populations. Harvard University, 2018.
 - [Burnout and Mental Health Problems in Biomedical Doctoral Students](https://www.lifescied.org/doi/10.1187/cbe.18-09-0198)
     * > A concerning finding from our analyses is that a high proportion of biomedical doctoral students struggle with high rates of mental health problems. _CBE—Life Sciences Education_, 2019.
+- [PhDs: the tortuous truth](https://www.nature.com/articles/d41586-019-03459-7)
+    * > More than one-third of respondents (36%) said that they have sought help for anxiety or depression caused by their PhD studies. _Nature_, 2019
 
 All of these studies reach the same conclusion: Graduate students suffer from
 disproportionately high rates of mental illness, this problem is a severe
