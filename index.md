@@ -61,6 +61,13 @@ intervention.
 >
 > Prevalence of anxiety and depression as reported in _Nature Biotechnology_, 2018.
 
+## Academic bullying
+
+The academic science community is also having a discussion about
+[academic bullying](https://anthony-aylward.github.io/academic-bullying).
+Behaviors fitting at least one definition of bullying have occurred before in
+the BISB program, so this topic is highly relevant to student mental health.
+
 ## Mental health and grad exprience statistics at UCSD
 
 While anecdotal and empirical evidence do indicate severe mental health problems
