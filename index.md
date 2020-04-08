@@ -53,7 +53,7 @@ years. They include:
 - [PhDs: the tortuous truth](https://www.nature.com/articles/d41586-019-03459-7)
     * > More than one-third of respondents (36%) said that they have sought help for anxiety or depression caused by their PhD studies. _Nature_, 2019
 - [Supervising the PhD: identifying common mismatches in expectations between candidate and supervisor to improve research training outcomes](https://www.biorxiv.org/content/10.1101/2020.02.20.958520v2.full.pdf)
-    * > More than 35% of candidates reported that experiences during their PhD had negatively impacted their overall [mental] well-being in a significant way.
+    * > More than 35% of candidates reported that experiences during their PhD had negatively impacted their overall [mental] well-being in a significant way. bioRxiv, 2020.
 
 All of these studies reach the same conclusion: Graduate students suffer from
 disproportionately high rates of mental illness, this problem is a severe
