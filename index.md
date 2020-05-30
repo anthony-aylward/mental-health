@@ -1,5 +1,11 @@
 
 
+![What having mental health concerns in grad school feels like](figure/feels-like.png)
+
+![The reality of mental health in grad school](figure/reality.png)
+
+_Images by [Dr. Zoe Ayres](https://www.zjayres.com)_
+
 # Graduate School and Mental Health
 
 _Thanks to Owen Chapman and Michelle Ragsac for their input & suggestions._
