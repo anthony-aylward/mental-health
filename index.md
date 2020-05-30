@@ -26,6 +26,7 @@ opinion articles to this effect:
 - [The ivory tower of academia and how mental health is often neglected](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6511937/) (2019)
 - [STUDENT VOICE: Universities overlook graduate students’ mental health](https://hechingerreport.org/opinion-graduate-students-mental-health/) (2019)
 - [The Emotional Toll of Graduate School](https://blogs.scientificamerican.com/observations/the-emotional-toll-of-graduate-school/) (2019)
+- [Imposter syndrome isn’t the problem—toxic workplaces are](https://qz.com/work/1286549/imposter-syndrome-lets-toxic-work-culture-off-the-hook/) (2018)
 - [Feeling overwhelmed by academia? You are not alone](https://www.nature.com/articles/d41586-018-04998-1) (2018)
 - [Mental health in academia is too often a forgotten footnote. That needs to change](https://www.sciencemag.org/careers/2018/04/mental-health-academia-too-often-forgotten-footnote-needs-change) (2018)
 - [Academia is built on exploitation. We must break this vicious circle](https://www.theguardian.com/higher-education-network/2018/may/18/academia-exploitation-university-mental-health-professors-plagiarism) (2018)
@@ -57,6 +58,8 @@ years. They include:
     * > A concerning finding from our analyses is that a high proportion of biomedical doctoral students struggle with high rates of mental health problems. _CBE—Life Sciences Education_, 2019.
 - [PhDs: the tortuous truth](https://www.nature.com/articles/d41586-019-03459-7)
     * > More than one-third of respondents (36%) said that they have sought help for anxiety or depression caused by their PhD studies. _Nature_, 2019
+- [Supervising the PhD: identifying common mismatches in expectations between candidate and supervisor to improve research training outcomes](https://www.biorxiv.org/content/10.1101/2020.02.20.958520v2.full.pdf)
+    * > More than 35% of candidates reported that experiences during their PhD had negatively impacted their overall [mental] well-being in a significant way. bioRxiv, 2020.
 
 All of these studies reach the same conclusion: Graduate students suffer from
 disproportionately high rates of mental illness, this problem is a severe
