@@ -18,6 +18,7 @@ empirical data that point to a crisis of mental health problems among graduate
 students. Here is an illustrative (but not exhaustive) selection of news &
 opinion articles to this effect:
 
+- [The mental health of PhD researchers demands urgent attention](https://www.nature.com/articles/d41586-019-03489-1)
 - [Op-ed: UC should offer more resources to support graduate students’ mental health](https://dailybruin.com/2019/09/26/op-ed-uc-should-offer-more-resources-to-support-graduate-students-mental-health/) (2019)
 - [A better future for graduate-student mental health](https://www.nature.com/articles/d41586-019-02584-7) (2019)
 - [Why We Need to Talk More About Mental Health in Graduate School](https://www.chronicle.com/article/Why-We-Need-to-Talk-More-About/247002) (2019)
