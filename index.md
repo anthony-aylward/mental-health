@@ -10,7 +10,7 @@ _Images by [Dr. Zoe Ayres](https://www.zjayres.com)_
 
 _Thanks to Owen Chapman and Michelle Ragsac for their input & suggestions._
 
-### [World Mental Health Day (2019): facts, figures and the flaws of academia - read this!](https://www.neuro-central.com/2019/10/08/world-mental-health-day-facts-figures-flaws-academia/)
+### [The mental health of PhD researchers demands urgent attention - read this!](https://www.nature.com/articles/d41586-019-03489-1)
 
 There is a growing discussion of mental health in the academic community.
 Of particular concern is the mounting quantity of anectodal reports and
@@ -18,7 +18,7 @@ empirical data that point to a crisis of mental health problems among graduate
 students. Here is an illustrative (but not exhaustive) selection of news &
 opinion articles to this effect:
 
-- [The mental health of PhD researchers demands urgent attention](https://www.nature.com/articles/d41586-019-03489-1) (2019)
+- [World Mental Health Day: facts, figures and the flaws of academia](https://www.neuro-central.com/2019/10/08/world-mental-health-day-facts-figures-flaws-academia/) (2019)
 - [Op-ed: UC should offer more resources to support graduate students’ mental health](https://dailybruin.com/2019/09/26/op-ed-uc-should-offer-more-resources-to-support-graduate-students-mental-health/) (2019)
 - [A better future for graduate-student mental health](https://www.nature.com/articles/d41586-019-02584-7) (2019)
 - [Why We Need to Talk More About Mental Health in Graduate School](https://www.chronicle.com/article/Why-We-Need-to-Talk-More-About/247002) (2019)
